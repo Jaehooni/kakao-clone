@@ -53,3 +53,14 @@
   display: block;
   margin-bottom: 5px;
 }
+
+.user-component__text{
+  position: relative;
+}
+
+.user-component__text span{
+  position: absolute;
+  bottom: 0px;
+  right: -20px;
+  color: tomato;
+}
