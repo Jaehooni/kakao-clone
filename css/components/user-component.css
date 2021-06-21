@@ -49,6 +49,10 @@
    align-items: flex-end;
 }
 
+.user-component__column:last-child span{
+  opacity: 0.4;
+}
+
 .user-component__time{
   display: block;
   margin-bottom: 5px;
