@@ -14,10 +14,45 @@ HTML 및 CSS에 대한 이해를 높이는 프로젝트임
   
 -----------------------------------------------------------------------------
 ## 구조
-index.html => friends.html <=> chats.html <=> chat.html, settings.html  
-                           <=> find.html <=> settings.html       
-                           <=> more.html <=> settings.html                          
-                           <=> settings.html <=> chats.html  
-                                             <=> find.html  
-                                             <=> more.html  
+```bash
+├── css
+│   ├── components
+│   │   ├── alt-screen-header.css
+│   │   ├── badge.css
+│   │   ├── dot.css
+│   │   ├── icon-row.css
+│   │   ├── nav-bar.css
+│   │   ├── no-mobile.css
+│   │   ├── screen-header.css
+│   │   ├── status-bar.css
+│   │   └── user-component.css
+│   ├── screens
+│   │   ├── chat.css
+│   │   ├── find.css
+│   │   ├── friends.css
+│   │   ├── login.css
+│   │   ├── more.css
+│   │   └── settings.css
+│   ├── reset.css
+│   ├── styles.css
+│   └── variable.css
+├── screenshots
+│   ├── 01.png
+│   ├── 02.png
+│   ├── 03.png
+│   ├── 04.png
+│   ├── 05.png
+│   ├── 06.png
+│   ├── 07.png
+│   └── 09.png
+├── .gitignore
+├── README.md
+├── chat.html
+├── chats.html
+├── find.html
+├── friends.html
+├── index.html
+├── more.html
+└── settings.html
+``` 
                                                 
