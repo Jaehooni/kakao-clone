@@ -15,11 +15,8 @@ HTML 및 CSS에 대한 이해를 높이는 프로젝트임
 -----------------------------------------------------------------------------
 ## 구조
 index.html => friends.html <=> chats.html <=> chat.html, settings.html  
-    
-                           <=> find.html <=> settings.html  
-                           
-                           <=> more.html <=> settings.html  
-                           
+                           <=> find.html <=> settings.html       
+                           <=> more.html <=> settings.html                          
                            <=> settings.html <=> chats.html  
                                              <=> find.html  
                                              <=> more.html  
