@@ -10,7 +10,8 @@ animation, media query와 같은 기능들을
 익힘.      
   
   
-참조 링크  
+관련 링크
+[노마드 코더] :  https://nomadcoders.co
 [노마드 코더 코코아톡 클론코딩] : https://nomadcoders.co/kokoa-clone  
   
   
