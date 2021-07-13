@@ -8,9 +8,7 @@
 animation, media query와 같은 기능들을  
 실제로 사용해보며 HTML 및 CSS를 사용한 레이아웃 구성을  
 익히는 것을 목적으로 함   
-TEST1234
-  
-  
+    
 관련 링크   
 [노마드 코더] :  https://nomadcoders.co   
 [노마드 코더 코코아톡 클론코딩] : https://nomadcoders.co/kokoa-clone  
