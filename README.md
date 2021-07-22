@@ -46,12 +46,12 @@ HTML 및 CSS를 사용한 프론트엔드 개발을 익힘
 │   ├── 06.png
 │   ├── 07.png
 │   └── 09.png
-├── .gitignore
-├── README.md
 ├── chat.html
 ├── chats.html
 ├── find.html
 ├── friends.html
 ├── index.html
 ├── more.html
-└── settings.html
+├── settings.html
+├── README.md
+└── .gitignore
