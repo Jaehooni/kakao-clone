@@ -7,8 +7,7 @@
 강의를 들으면서 배운 기본적인 CSS 레이아웃 구성 및   
 animation, media query와 같은 기능들을 실제로 사용해보며    
 HTML 및 CSS를 사용한 프론트엔드 개발을 익힘.   
-
-        
+    
 관련 링크   
 [노마드 코더 홈페이지] :  https://nomadcoders.co   
 [노마드 코더 코코아톡 클론코딩 강의] : https://nomadcoders.co/kokoa-clone  
