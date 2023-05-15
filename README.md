@@ -48,7 +48,7 @@ animation, media query와 같은 기능들을 실제로 사용해봄
 ├── settings.html
 ├── README.md
 └── .gitignore
-
+```
 -----------------------------------------------------------------------------
-## 관련 링크   
+관련 링크   
 [노마드 코더 홈페이지] :  https://nomadcoders.co 
